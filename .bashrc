@@ -2,6 +2,10 @@
 #
 # Additions:
 #
+
+# Trim the promtpt to latest n directories
+PROMPT_DIRTRIM=2
+
 # GIT bash integration, credits: https://gist.github.com/midlan
 if [[ -e /usr/lib/git-core/git-sh-prompt ]]; then
   source /usr/lib/git-core/git-sh-prompt
