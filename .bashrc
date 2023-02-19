@@ -3,7 +3,7 @@
 # Additions:
 #
 
-# Trim the promtpt to latest n directories
+# Trim the prompt to latest n directories to save space.
 PROMPT_DIRTRIM=2
 
 # GIT bash integration, credits: https://gist.github.com/midlan
